@@ -1,2 +1,2 @@
 # mns-dm23-test
- ett test repo
+ Ett fint test repo för att börja lära sig git. 
